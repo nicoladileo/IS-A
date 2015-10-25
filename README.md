@@ -16,11 +16,17 @@ This script require:
 
 ## Demo ##
 <div>
-    <img src="https://github.com/nicoladileo/IS-A/blob/master/fruit.jpg" align="center" height="350" width="700">
+    <img src="https://github.com/nicoladileo/IS-A/blob/master/fruit.jpg" align="center" height="350" width="500">
     <p>Original image</p>
 </div>
+
 <div>
-    <img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_4_fruit.jpg" align="center" height="350" width="700">
+    <img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_2_fruit.jpg" align="center" height="350" width="500">
+    <p>Final image after running KMeans with k = 2</p>
+</div>
+
+<div>
+    <img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_4_fruit.jpg" align="center" height="350" width="500">
     <p>Final image after running KMeans with k = 4</p>
 </div>
 
