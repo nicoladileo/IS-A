@@ -15,14 +15,13 @@ This script require:
 * Scikit-learn library for Machine Learning in Python.
 
 ## Demo ##
-The first image is the original one while the remaining are obtained by running the KMeans with k equal to 2,4,8 respectively
-<a href="url"><img src="https://github.com/nicoladileo/IS-A/blob/master/fruit.jpg" align="center" 
-height="250" width="500" ></a>
-<a href="url"><img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_2_fruit.jpg" align="center" 
-height="250" width="500" ></a>
-<a href="url"><img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_4_fruit.jpg" align="center" 
-height="250" width="500" ></a>
-<a href="url"><img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_8_fruit.jpg" align="center" 
-height="250" width="500" ></a>
+<div>
+    <img src="https://github.com/nicoladileo/IS-A/blob/master/fruit.jpg">
+    <p>Original image</p>
+</div>
+<div>
+    <img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_4_fruit.jpg">
+    <p>Final image after running KMeans with k = 4</p>
+</div>
 
 
