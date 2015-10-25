@@ -16,11 +16,11 @@ This script require:
 
 ## Demo ##
 <div>
-    <img src="https://github.com/nicoladileo/IS-A/blob/master/fruit.jpg">
+    <img src="https://github.com/nicoladileo/IS-A/blob/master/fruit.jpg" align="center" height="350" width="700">
     <p>Original image</p>
 </div>
 <div>
-    <img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_4_fruit.jpg">
+    <img src="https://github.com/nicoladileo/IS-A/blob/master/cluster_4_fruit.jpg" align="center" height="350" width="700">
     <p>Final image after running KMeans with k = 4</p>
 </div>
 
