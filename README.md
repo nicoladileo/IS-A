@@ -5,9 +5,9 @@ Image Segmentation Algorithm using clustering
 This script compute image segmentation using KMeans algorithm for clustering: once a cluster of pixels is computed,
 each pixel in cluster receives the color belonging to the centroid.
 To run the script type on terminal: 
-<p>
-"python clustering.py \<imagename\> number_of_cluster"
-</p>
+
+* python clustering.py \<imagename\> \<number_of_cluster\>
+
 ## System Requirements ##
 This script require:
 * Python 2.7.9;
